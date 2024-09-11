@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Snowfall_report"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d5ecca3e-1d03-45af-ab9f-c0731efd5800"
+  }
+}
